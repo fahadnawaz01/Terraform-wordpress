@@ -67,6 +67,3 @@ The project adheres to a clean, modular structure.
 4.  **Deploy the infrastructure**.
     `terraform apply`
 
-## About the Author
-
-This project was developed by **[Your Name]** to demonstrate proficiency in Terraform and cloud infrastructure design. This project has given me invaluable hands-on experience with modularization, state management, and troubleshooting real-world cloud infrastructure issues. I am now confident in my ability to build and manage complex cloud environments, and I'm excited to continue using these skills in my career.
