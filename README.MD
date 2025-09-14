@@ -1,4 +1,4 @@
-# A Multi-Tier WordPress Blog on AWS
+# A Terraform template for a Multi-Tier WordPress Blog on AWS
 
 This project demonstrates a fully automated, production-ready architecture for a dynamic WordPress blog on AWS, using **Terraform** as the Infrastructure as Code (IaC) tool. The core goal is to build a scalable and secure web application from the ground up, highlighting the power of automation and modular design.
 
